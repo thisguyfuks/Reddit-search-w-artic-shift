@@ -8,6 +8,16 @@ A local-first tool for looking up Reddit user activity — comments, posts, and 
 
 ---
 
+## Screenshots
+
+![Search sidebar](screenshots/1-sidebar.png)
+
+![Results view](screenshots/2-results.png)
+
+![Comments tab](screenshots/3-comments.png)
+
+---
+
 ## What it does
 
 - **Arctic Shift** — full Reddit archive, 1000+ comments and posts per user, no API key
