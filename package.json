@@ -1,0 +1,23 @@
+{
+  "name": "reddit-username-workbench",
+  "version": "1.0.0",
+  "description": "Local-first Reddit username lookup workbench powered by search engines instead of the Reddit API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "reddit",
+    "search",
+    "osint",
+    "username",
+    "lookup"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "express": "^5.1.0"
+  }
+}
